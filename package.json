@@ -1,0 +1,22 @@
+{
+  "name": "acuo",
+  "version": "1.0.0",
+  "description": "Acuo test bed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akanta-palo/acuo.git"
+  },
+  "keywords": [
+    "acuo"
+  ],
+  "author": "ACUO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akanta-palo/acuo/issues"
+  },
+  "homepage": "https://github.com/akanta-palo/acuo#readme"
+}
